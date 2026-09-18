@@ -133,9 +133,9 @@ export default function Privacy() {
             <h3>3.9 GIF Search</h3>
             <p>
               If you use the in-app GIF search feature, the search terms you type are sent to
-              Tenor (operated by Google) to retrieve matching results. This is the only data
-              shared with Tenor; it is not linked to your Secretly ID, and Tenor is not used for
-              any other purpose. See Section 18 for Tenor's privacy policy.
+              Giphy to retrieve matching results. This is the only data shared with Giphy; it is
+              not linked to your Secretly ID, and Giphy is not used for any other purpose. See
+              Section 18 for Giphy's privacy policy.
             </p>
 
             <h2>4. How We Use the Information</h2>
@@ -206,7 +206,7 @@ export default function Privacy() {
               <li>In-app purchase processing (Apple App Store, Google Play); and, for optional website donations only, payment providers such as Stripe or PayPal</li>
               <li>On-device machine-learning model distribution (Google ML Kit translation models; the voice-transcription model host)</li>
               <li>Device speech-recognition services (Apple, Google) — only if and when you use voice dictation</li>
-              <li>GIF search (Tenor, a Google service) — receives the search terms you type when using the GIF picker; not linked to your Secretly ID</li>
+              <li>GIF search (Giphy) — receives the search terms you type when using the GIF picker; not linked to your Secretly ID</li>
               <li>Support and communication services (email, ticketing systems)</li>
               <li>Analytics and monitoring services (if applicable)</li>
               <li>Legal authorities—only in response to a valid legal request</li>
@@ -397,7 +397,7 @@ export default function Privacy() {
 
             <h3>GIF Search</h3>
             <ul>
-              <li>Tenor (Google) — receives the search terms you type when using the in-app GIF picker, to return matching GIF results; not linked to your Secretly ID — <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">privacy policy</a></li>
+              <li>Giphy — receives the search terms you type when using the in-app GIF picker, to return matching GIF results; not linked to your Secretly ID — <a href="https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy" target="_blank" rel="noopener noreferrer">privacy policy</a></li>
             </ul>
 
             <h3>Payments (Android only)</h3>

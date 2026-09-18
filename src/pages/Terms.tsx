@@ -63,7 +63,7 @@ export default function Terms() {
                 to text; an offline, fully on-device transcription mode is available as an
                 alternative where supported)
               </li>
-              <li>GIF search (powered by Tenor)</li>
+              <li>GIF search (powered by Giphy)</li>
             </ul>
             <p>Secretly is designed so that:</p>
             <ul>
@@ -252,7 +252,7 @@ export default function Terms() {
               <li>Push providers</li>
               <li>Hosting infrastructure</li>
               <li>Media providers</li>
-              <li>GIF search (Tenor, a Google service) — if you use the GIF search feature, the text you type into the GIF search box is sent to Tenor to retrieve matching results</li>
+              <li>GIF search (Giphy) — if you use the GIF search feature, the text you type into the GIF search box is sent to Giphy to retrieve matching results</li>
             </ul>
             <p>These services operate under their own terms.</p>
             <p>Secretly is not responsible for services outside its control.</p>
