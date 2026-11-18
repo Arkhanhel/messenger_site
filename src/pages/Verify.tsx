@@ -30,6 +30,20 @@ const DEFINES = [
 
 const ARTEFACTS = [
   {
+    release: '1.8.68 (690)',
+    platform: 'macOS',
+    file: 'Secretly-1.8.68-690.dmg',
+    date: '2026-11-18',
+    sha: 'b285079b3c22e918cc5c927202a2ad07b7359d071e3ed7a054b0f663510d8a3f',
+  },
+  {
+    release: '1.8.68 (690)',
+    platform: 'Android',
+    file: 'secretly-production-1.8.68-690-store690.aab',
+    date: '2026-11-18',
+    sha: '97a0533eea81ca79080639842e2605c579638ec05d57926ec46c6b0c5291c0ad',
+  },
+  {
     release: '1.8.64 (645)',
     platform: 'macOS',
     file: 'Secretly-1.8.64-645.dmg',
