@@ -38,6 +38,20 @@ const ARTEFACTS = [
   },
   {
     release: '1.8.68 (690)',
+    platform: 'Windows installer',
+    file: 'Secretly-Setup-1.8.68-690-x64.exe',
+    date: '2026-11-18',
+    sha: '388e91315389901366b0f56119a430ea2ac03050a1ba84735dc91049fbf50c4b',
+  },
+  {
+    release: '1.8.68 (690)',
+    platform: 'Windows',
+    file: 'Secretly-1.8.68-690-windows-x64.zip',
+    date: '2026-11-18',
+    sha: 'a27855b5ebb78e72e667adae57d15b7c2f636de41cdef021e315f17f0d9385b9',
+  },
+  {
+    release: '1.8.68 (690)',
     platform: 'Android',
     file: 'secretly-production-1.8.68-690-store690.aab',
     date: '2026-11-18',
